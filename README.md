@@ -5,7 +5,7 @@
 
 
 ```html
-<p>hello world</p>
+<p>hello github</p>
 ```
 - 1st
 - 2nd
